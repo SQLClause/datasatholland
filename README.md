@@ -1,2 +1,2 @@
 # datasatholland
-Slides for my session at DataSaturday Holland
+Slides and scripts for my Snowflake introduction session at DataSaturday Holland 2023
